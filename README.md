@@ -63,6 +63,7 @@ Special thanks to our biggest sponsors!
 * [Saasykit](https://saasykit.com/?ref=coolify.io) - A Laravel-based boilerplate providing essential components and features for building SaaS applications quickly.
 * [Massivegrid](https://massivegrid.com/?ref=coolify.io) - A cloud hosting provider offering scalable infrastructure solutions for businesses of all sizes.
 * [LiquidWeb](https://liquidweb.com/?utm_source=coolify.io) - Fast web hosting provider.
+* [GoldenVM](https://billing.goldenvm.com/index.php?rp=/store/high-performance-vps) - High Performance VPS's on 7950x's with free daily backup.
 
 
 ## Github Sponsors ($40+)
